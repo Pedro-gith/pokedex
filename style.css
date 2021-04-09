@@ -1,0 +1,27 @@
+.col100a{
+    color: #fff !important;
+}
+
+.hpx300a{
+    height: 300px !important;
+}
+
+.bor100a{
+    border: .5px solid rgba(146, 144, 144, 0.767);
+}
+
+.maxwidth100{
+    max-width: 100% !important;
+}
+
+.w100a{
+    width: 100% !important;
+}
+
+.h100a{
+    height: 100% !important;
+}
+
+.bgcol100a{
+    background-color:#dc3545;
+}
